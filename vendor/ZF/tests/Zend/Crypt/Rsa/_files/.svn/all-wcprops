@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/framework/!svn/ver/14746/standard/trunk/tests/Zend/Crypt/Rsa/_files
+END
+test.pem
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/14746/standard/trunk/tests/Zend/Crypt/Rsa/_files/test.pem
+END
+test.cert
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/14746/standard/trunk/tests/Zend/Crypt/Rsa/_files/test.cert
+END

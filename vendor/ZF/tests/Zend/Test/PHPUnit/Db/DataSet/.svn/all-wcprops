@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet
+END
+DbRowsetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet/DbRowsetTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet/AllTests.php
+END
+QueryDataSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet/QueryDataSetTest.php
+END
+DbTableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet/DbTableTest.php
+END
+QueryTableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet/QueryTableTest.php
+END
+DataSetTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet/DataSetTestCase.php
+END
+DbTableDataSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Test/PHPUnit/Db/DataSet/DbTableDataSetTest.php
+END

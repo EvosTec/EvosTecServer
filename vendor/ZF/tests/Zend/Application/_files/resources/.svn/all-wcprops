@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/resources
+END
+Baz.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/resources/Baz.php
+END
+Autoloaded.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/resources/Autoloaded.php
+END
+Foo.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/resources/Foo.php
+END
+Foobar.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/resources/Foobar.php
+END

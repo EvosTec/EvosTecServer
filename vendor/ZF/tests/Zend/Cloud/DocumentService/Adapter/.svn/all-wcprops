@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Cloud/DocumentService/Adapter
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Cloud/DocumentService/Adapter/AllTests.php
+END
+SimpleDbTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Cloud/DocumentService/Adapter/SimpleDbTest.php
+END
+WindowsAzureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Cloud/DocumentService/Adapter/WindowsAzureTest.php
+END

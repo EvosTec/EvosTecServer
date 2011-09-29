@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/framework/!svn/ver/24471/standard/trunk/tests/Zend/Filter
+END
+PregReplaceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/PregReplaceTest.php
+END
+IntTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/IntTest.php
+END
+CompressTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/CompressTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/AllTests.php
+END
+CallbackTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/CallbackTest.php
+END
+LocalizedToNormalizedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/LocalizedToNormalizedTest.php
+END
+NormalizedToLocalizedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/NormalizedToLocalizedTest.php
+END
+InputTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/framework/!svn/ver/24471/standard/trunk/tests/Zend/Filter/InputTest.php
+END
+RealPathTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/RealPathTest.php
+END
+StringTrimTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/StringTrimTest.php
+END
+DecompressTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/DecompressTest.php
+END
+StripNewlinesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/StripNewlinesTest.php
+END
+HtmlEntitiesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/24006/standard/trunk/tests/Zend/Filter/HtmlEntitiesTest.php
+END
+NullTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/NullTest.php
+END
+DecryptTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/DecryptTest.php
+END
+BaseNameTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/BaseNameTest.php
+END
+AlnumTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/AlnumTest.php
+END
+DirTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/DirTest.php
+END
+BooleanTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/BooleanTest.php
+END
+StripTagsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/framework/!svn/ver/24277/standard/trunk/tests/Zend/Filter/StripTagsTest.php
+END
+StringToLowerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/StringToLowerTest.php
+END
+DigitsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/DigitsTest.php
+END
+EncryptTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/EncryptTest.php
+END
+AlphaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/AlphaTest.php
+END
+InflectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/InflectorTest.php
+END
+StringToUpperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/StringToUpperTest.php
+END

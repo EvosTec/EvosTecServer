@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/framework/!svn/ver/24477/standard/trunk/tests/Zend
+END
+ValidateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/ValidateTest.php
+END
+CurrencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/CurrencyTest.php
+END
+TimeSyncTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/TimeSyncTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/AllTests.php
+END
+TranslateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/TranslateTest.php
+END
+ExceptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/ExceptionTest.php
+END
+UriTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/UriTest.php
+END
+LocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/LocaleTest.php
+END
+NavigationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/NavigationTest.php
+END
+AuthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/AuthTest.php
+END
+ConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/ConfigTest.php
+END
+LoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/24001/standard/trunk/tests/Zend/LoaderTest.php
+END
+RegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/RegistryTest.php
+END
+JsonTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/framework/!svn/ver/24424/standard/trunk/tests/Zend/JsonTest.php
+END
+ViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/framework/!svn/ver/24076/standard/trunk/tests/Zend/ViewTest.php
+END
+DateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/framework/!svn/ver/23899/standard/trunk/tests/Zend/DateTest.php
+END
+OpenIdTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/24378/standard/trunk/tests/Zend/OpenIdTest.php
+END
+PaginatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/PaginatorTest.php
+END
+FilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/FilterTest.php
+END
+VersionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/VersionTest.php
+END
+DebugTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/DebugTest.php
+END
+MimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/MimeTest.php
+END

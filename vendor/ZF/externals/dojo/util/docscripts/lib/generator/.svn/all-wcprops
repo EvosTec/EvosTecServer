@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22504/branches/1.5/util/docscripts/lib/generator
+END
+XmlSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/22504/branches/1.5/util/docscripts/lib/generator/XmlSerializer.php
+END
+JsonSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/22504/branches/1.5/util/docscripts/lib/generator/JsonSerializer.php
+END

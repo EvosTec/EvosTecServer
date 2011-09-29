@@ -1,0 +1,325 @@
+10
+
+dir
+26732
+http://svn.dojotoolkit.org/src/branches/1.5/dojo/cldr/nls
+http://svn.dojotoolkit.org/src
+
+
+
+2010-05-17T15:07:41.191995Z
+22175
+jaredj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+560b804f-0ae3-0310-86f3-f6aa0a117693
+
+da
+dir
+
+hebrew.js
+file
+
+
+
+
+2011-09-29T16:34:48.010664Z
+fea38e7d9b8b525c6ba42c77195423ca
+2010-03-28T03:10:32.411905Z
+21648
+peller
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4339
+
+de
+dir
+
+sv
+dir
+
+gregorian.js
+file
+
+
+
+
+2011-09-29T16:34:48.010664Z
+1c1ecda0014669c4bdc267fc4b0786c4
+2010-04-05T21:28:32.587985Z
+21737
+peller
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4178
+
+ja
+dir
+
+he
+dir
+
+islamic.js
+file
+
+
+
+
+2011-09-29T16:34:48.010664Z
+c088db261048327752a23ab3cc1af6e3
+2010-03-28T03:10:32.411905Z
+21648
+peller
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4021
+
+fi
+dir
+
+nb
+dir
+
+fr
+dir
+
+nl
+dir
+
+pl
+dir
+
+th
+dir
+
+hu
+dir
+
+zh
+dir
+
+buddhist.js
+file
+
+
+
+
+2011-09-29T16:34:48.010664Z
+5533c9f34a65b73486cbb2a76f84b6f3
+2010-05-17T15:07:41.191995Z
+22175
+jaredj
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3747
+
+pt
+dir
+
+en-ca
+dir
+
+ca
+dir
+
+tr
+dir
+
+ru
+dir
+
+en-gb
+dir
+
+el
+dir
+
+ar
+dir
+
+en
+dir
+
+number.js
+file
+
+
+
+
+2011-09-29T16:34:48.010664Z
+fc33990f816eb1c8258774dc11ac447d
+2008-07-08T01:43:53.349609Z
+14322
+peller
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+750
+
+pt-pt
+dir
+
+cs
+dir
+
+en-au
+dir
+
+currency.js
+file
+
+
+
+
+2011-09-29T16:34:48.010664Z
+4cda9f6f8600cc8cee3793f13f617487
+2010-03-25T17:21:46.074222Z
+21640
+peller
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+241
+
+es
+dir
+
+zh-tw
+dir
+
+ko
+dir
+
+it
+dir
+
+sk
+dir
+
+sl
+dir
+

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/src/!svn/ver/26501/branches/1.5/dijit/form
+END
+NumberTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22502/branches/1.5/dijit/form/NumberTextBox.js
+END
+_FormWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22502/branches/1.5/dijit/form/_FormWidget.js
+END
+ValidationTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/22912/branches/1.5/dijit/form/ValidationTextBox.js
+END
+ComboBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/22502/branches/1.5/dijit/form/ComboBox.js
+END
+CurrencyTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22502/branches/1.5/dijit/form/CurrencyTextBox.js
+END
+TimeTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22502/branches/1.5/dijit/form/TimeTextBox.js
+END
+Textarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/22502/branches/1.5/dijit/form/Textarea.js
+END
+_Spinner.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/22502/branches/1.5/dijit/form/_Spinner.js
+END
+VerticalRuleLabels.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22502/branches/1.5/dijit/form/VerticalRuleLabels.js
+END
+NumberSpinner.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22502/branches/1.5/dijit/form/NumberSpinner.js
+END
+DateTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22502/branches/1.5/dijit/form/DateTextBox.js
+END
+TextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/22743/branches/1.5/dijit/form/TextBox.js
+END
+VerticalRule.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22502/branches/1.5/dijit/form/VerticalRule.js
+END
+Form.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/22502/branches/1.5/dijit/form/Form.js
+END
+HorizontalRuleLabels.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22502/branches/1.5/dijit/form/HorizontalRuleLabels.js
+END
+_FormSelectWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/22502/branches/1.5/dijit/form/_FormSelectWidget.js
+END
+_FormMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/22502/branches/1.5/dijit/form/_FormMixin.js
+END
+_DateTimeTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22502/branches/1.5/dijit/form/_DateTimeTextBox.js
+END
+Button.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/26501/branches/1.5/dijit/form/Button.js
+END
+VerticalSlider.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22502/branches/1.5/dijit/form/VerticalSlider.js
+END
+ToggleButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22502/branches/1.5/dijit/form/ToggleButton.js
+END
+Select.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/22502/branches/1.5/dijit/form/Select.js
+END
+HorizontalRule.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22502/branches/1.5/dijit/form/HorizontalRule.js
+END
+Slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/!svn/ver/22502/branches/1.5/dijit/form/Slider.js
+END
+FilteringSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22502/branches/1.5/dijit/form/FilteringSelect.js
+END
+MappedTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22502/branches/1.5/dijit/form/MappedTextBox.js
+END
+CheckBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/22502/branches/1.5/dijit/form/CheckBox.js
+END
+SimpleTextarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22502/branches/1.5/dijit/form/SimpleTextarea.js
+END
+DropDownButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22502/branches/1.5/dijit/form/DropDownButton.js
+END
+MultiSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22502/branches/1.5/dijit/form/MultiSelect.js
+END
+RadioButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22502/branches/1.5/dijit/form/RadioButton.js
+END
+ComboButton.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/22502/branches/1.5/dijit/form/ComboButton.js
+END
+HorizontalSlider.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22502/branches/1.5/dijit/form/HorizontalSlider.js
+END
+RangeBoundTextBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/22502/branches/1.5/dijit/form/RangeBoundTextBox.js
+END

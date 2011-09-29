@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Currency
+END
+Service.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/framework/!svn/ver/23493/standard/trunk/tests/Zend/Currency/Service.php
+END
+ExchangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Currency/ExchangeTest.php
+END

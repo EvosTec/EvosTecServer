@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor
+END
+test_LinkDialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_LinkDialog.html
+END
+test_richtext.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_richtext.css
+END
+sample2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/sample2.jpg
+END
+test_ToggleDir.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_ToggleDir.html
+END
+test_FontChoice.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_FontChoice.html
+END
+nls_sjis.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/nls_sjis.html
+END
+customIcon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/customIcon.gif
+END
+test_Editor.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_Editor.html
+END
+_Editor.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/_Editor.html
+END
+test_NewPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_NewPage.html
+END
+BackForwardStateHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/BackForwardStateHelper.html
+END
+BackForwardState.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/BackForwardState.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/runTests.html
+END
+test_CustomPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_CustomPlugin.html
+END
+nls_8859-2.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/nls_8859-2.html
+END
+test_RichText.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_RichText.html
+END
+test_ViewSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_ViewSource.html
+END
+EnterKeyHandling.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/EnterKeyHandling.html
+END
+test_Print.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_Print.html
+END
+sample.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/sample.jpg
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/module.js
+END
+test_ToggleDir_rtl.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_ToggleDir_rtl.html
+END
+test_resize.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_resize.html
+END
+test_FullScreen.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_FullScreen.html
+END
+nls_utf8.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/nls_utf8.html
+END
+test_TabIndent.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/22502/branches/1.5/dijit/tests/editor/test_TabIndent.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Entry
+END
+AtomStandaloneEntryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Entry/AtomStandaloneEntryTest.php
+END
+AtomTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Entry/AtomTest.php
+END
+RssTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Entry/RssTest.php
+END
+CommonTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Entry/CommonTest.php
+END

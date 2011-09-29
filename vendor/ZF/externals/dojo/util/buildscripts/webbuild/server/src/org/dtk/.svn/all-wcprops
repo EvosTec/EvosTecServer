@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/22504/branches/1.5/util/buildscripts/webbuild/server/src/org/dtk
+END
+BuilderContextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/!svn/ver/22504/branches/1.5/util/buildscripts/webbuild/server/src/org/dtk/BuilderContextAction.java
+END
+BuilderServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/22504/branches/1.5/util/buildscripts/webbuild/server/src/org/dtk/BuilderServlet.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/22504/branches/1.5/util/buildscripts/webbuild/server/src/org/dtk/FileUtil.java
+END

@@ -1,0 +1,43 @@
+10
+
+dir
+24485
+http://framework.zend.com/svn/framework/standard/trunk/demos/Zend/Wildfire/application/views/scripts
+http://framework.zend.com/svn/framework
+
+
+
+2010-12-17T18:19:43.373828Z
+23531
+cadorn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44c647ce-9c0f-0410-b52a-842ac1e357ba
+
+zend-db-profiler-firebug
+dir
+
+index
+dir
+
+error
+dir
+
+zend-log-writer-firebug
+dir
+
+zend-wildfire-plugin-firephp
+dir
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests
+END
+entities.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/entities.js
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/module.js
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/format.js
+END
+test_style-html.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/test_style-html.html
+END
+test_styles.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/test_styles.html
+END
+test_ellipsis.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/test_ellipsis.html
+END
+test_themes.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/test_themes.html
+END
+formatted.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/formatted.html
+END
+test_metrics.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/test_metrics.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/runTests.html
+END
+unformatted.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/unformatted.html
+END
+test_set.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/22503/branches/1.5/dojox/html/tests/test_set.html
+END

@@ -1,0 +1,70 @@
+10
+
+dir
+24485
+http://framework.zend.com/svn/framework/standard/trunk/tests/Zend/Feed/Reader/Entry/_files/AtomStandaloneEntry
+http://framework.zend.com/svn/framework
+
+
+
+2010-01-21T15:23:52.284407Z
+20462
+padraic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44c647ce-9c0f-0410-b52a-842ac1e357ba
+
+enclosure
+dir
+
+commentlink
+dir
+
+links
+dir
+
+title
+dir
+
+author
+dir
+
+description
+dir
+
+datecreated
+dir
+
+content
+dir
+
+commentcount
+dir
+
+id
+dir
+
+baseurl
+dir
+
+category
+dir
+
+link
+dir
+
+datemodified
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images/list.php
+END
+image-1.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images/image-1.png
+END
+image-2.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images/image-2.png
+END
+image-exists.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images/image-exists.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images/upload.php
+END
+download.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images/download.php
+END
+delete-all.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/23024/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/images/delete-all.php
+END

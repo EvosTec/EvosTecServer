@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Http/TestAsset
+END
+DesktopDevice.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Http/TestAsset/DesktopDevice.php
+END
+InvalidPluginLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Http/TestAsset/InvalidPluginLoader.php
+END
+PopulatedStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Http/TestAsset/PopulatedStorage.php
+END
+TestPluginLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Http/TestAsset/TestPluginLoader.php
+END
+InvalidDevice.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Http/TestAsset/InvalidDevice.php
+END

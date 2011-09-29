@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Text
+END
+FigletTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Text/FigletTest.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Text/AllTests.php
+END
+MultiByteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Text/MultiByteTest.php
+END
+TableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Text/TableTest.php
+END

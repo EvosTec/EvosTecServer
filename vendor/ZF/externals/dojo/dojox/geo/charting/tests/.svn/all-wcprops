@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/22503/branches/1.5/dojox/geo/charting/tests
+END
+test_maps.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22503/branches/1.5/dojox/geo/charting/tests/test_maps.html
+END
+test_mapWithLegend.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/22503/branches/1.5/dojox/geo/charting/tests/test_mapWithLegend.html
+END
+test_mapWithCharting.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/22503/branches/1.5/dojox/geo/charting/tests/test_mapWithCharting.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/18654/standard/trunk/tests/Zend/Feed/Reader/Entry/_files/Atom/commentlink/plain
+END
+atom10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/18654/standard/trunk/tests/Zend/Feed/Reader/Entry/_files/Atom/commentlink/plain/atom10.xml
+END
+atom03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/18654/standard/trunk/tests/Zend/Feed/Reader/Entry/_files/Atom/commentlink/plain/atom03.xml
+END
+atom10-relative.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/framework/!svn/ver/18654/standard/trunk/tests/Zend/Feed/Reader/Entry/_files/Atom/commentlink/plain/atom10-relative.xml
+END

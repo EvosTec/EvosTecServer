@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/framework/!svn/ver/21883/standard/trunk/tests/Zend/Service/Amazon/_files
+END
+offers_with_names.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/21154/standard/trunk/tests/Zend/Service/Amazon/_files/offers_with_names.xml
+END
+amazon-response-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/21883/standard/trunk/tests/Zend/Service/Amazon/_files/amazon-response-invalid.xml
+END
+mozart_result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/12666/standard/trunk/tests/Zend/Service/Amazon/_files/mozart_result.xml
+END
+amazon-response-valid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/21883/standard/trunk/tests/Zend/Service/Amazon/_files/amazon-response-valid.xml
+END

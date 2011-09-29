@@ -7,3 +7,6 @@
 [submodule "vendor/dojo/dojo"]
 	path = vendor/dojo/dojo
 	url = git://github.com/dojo/dojo.git
+[submodule "vendor/doctrine2"]
+	path = vendor/doctrine2
+	url = git://github.com/doctrine/doctrine2.git

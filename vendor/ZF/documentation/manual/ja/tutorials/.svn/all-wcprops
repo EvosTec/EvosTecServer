@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/24275/standard/trunk/documentation/manual/ja/tutorials
+END
+form-decorators-conclusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/24249/standard/trunk/documentation/manual/ja/tutorials/form-decorators-conclusion.xml
+END
+lucene-pagination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/24249/standard/trunk/documentation/manual/ja/tutorials/lucene-pagination.xml
+END
+quickstart-conclusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/24249/standard/trunk/documentation/manual/ja/tutorials/quickstart-conclusion.xml
+END
+lucene-queries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/24249/standard/trunk/documentation/manual/ja/tutorials/lucene-queries.xml
+END
+quickstart-create-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/framework/!svn/ver/24275/standard/trunk/documentation/manual/ja/tutorials/quickstart-create-model.xml
+END
+lucene-searching.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/24249/standard/trunk/documentation/manual/ja/tutorials/lucene-searching.xml
+END
+lucene-index-opening.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/24249/standard/trunk/documentation/manual/ja/tutorials/lucene-index-opening.xml
+END
+lucene-indexing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/24249/standard/trunk/documentation/manual/ja/tutorials/lucene-indexing.xml
+END
+quickstart-create-project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/framework/!svn/ver/24275/standard/trunk/documentation/manual/ja/tutorials/quickstart-create-project.xml
+END

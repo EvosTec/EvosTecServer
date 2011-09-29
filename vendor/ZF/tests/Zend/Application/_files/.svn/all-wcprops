@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/24100/standard/trunk/tests/Zend/Application/_files
+END
+BootstrapBaseCircularDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/BootstrapBaseCircularDependency.php
+END
+appconfig.ini
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/14712/standard/trunk/tests/Zend/Application/_files/appconfig.ini
+END
+appconfig.ini.dist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/23842/standard/trunk/tests/Zend/Application/_files/appconfig.ini.dist
+END
+appconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/appconfig.php
+END
+zf-6679-1.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/17801/standard/trunk/tests/Zend/Application/_files/zf-6679-1.inc
+END
+Zf7696Bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/Zf7696Bootstrap.php
+END
+Zf-6719-1.ini
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/19113/standard/trunk/tests/Zend/Application/_files/Zf-6719-1.ini
+END
+zf-6679-2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/17801/standard/trunk/tests/Zend/Application/_files/zf-6679-2.inc
+END
+Zf-6719-2.ini
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/19113/standard/trunk/tests/Zend/Application/_files/Zf-6719-2.ini
+END
+ZfAppNoBootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/ZfAppNoBootstrap.php
+END
+ZfAppBootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/ZfAppBootstrap.php
+END
+appconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/14712/standard/trunk/tests/Zend/Application/_files/appconfig.xml
+END
+appconfig.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/24100/standard/trunk/tests/Zend/Application/_files/appconfig.yml
+END
+appconfig.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/23162/standard/trunk/tests/Zend/Application/_files/appconfig.yaml
+END
+ZfModuleBootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/ZfModuleBootstrap.php
+END
+ZfAppBadBootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Application/_files/ZfAppBadBootstrap.php
+END
+appconfig.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/23162/standard/trunk/tests/Zend/Application/_files/appconfig.json
+END
+appconfig.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/23508/standard/trunk/tests/Zend/Application/_files/appconfig.inc
+END

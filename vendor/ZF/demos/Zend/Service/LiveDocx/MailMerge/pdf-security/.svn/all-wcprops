@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/21632/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/pdf-security
+END
+template.docx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/19609/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/pdf-security/template.docx
+END
+generate-document.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/framework/!svn/ver/21632/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/pdf-security/generate-document.php
+END

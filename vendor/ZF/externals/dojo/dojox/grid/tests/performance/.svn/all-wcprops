@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22503/branches/1.5/dojox/grid/tests/performance
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/22503/branches/1.5/dojox/grid/tests/performance/module.js
+END
+dataNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/22503/branches/1.5/dojox/grid/tests/performance/dataNotification.html
+END
+creation.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/22503/branches/1.5/dojox/grid/tests/performance/creation.html
+END
+_gridPerfFramework.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/22503/branches/1.5/dojox/grid/tests/performance/_gridPerfFramework.js
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/22503/branches/1.5/dojox/grid/tests/performance/runTests.html
+END

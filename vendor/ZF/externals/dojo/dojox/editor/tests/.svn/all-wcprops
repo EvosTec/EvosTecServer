@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests
+END
+editorNormalizeIndentOutdent.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorNormalizeIndentOutdent.html
+END
+editorBreadcrumb.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorBreadcrumb.html
+END
+editorBlockquote.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorBlockquote.html
+END
+editorStatusBar.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorStatusBar.html
+END
+editorFindReplace.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorFindReplace.html
+END
+editorCollapsibleToolbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorCollapsibleToolbar.html
+END
+editorUploadPlug.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorUploadPlug.html
+END
+editorToolbarLineBreak.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorToolbarLineBreak.html
+END
+runTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/runTests.html
+END
+testContentSheet.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/testContentSheet.css
+END
+editorSmileyPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorSmileyPlugin.html
+END
+editorPreview.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorPreview.html
+END
+editorPageBreak.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorPageBreak.html
+END
+editorNormalizeStyle.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorNormalizeStyle.html
+END
+editorTextColor.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorTextColor.html
+END
+editorShowBlockNodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorShowBlockNodes.html
+END
+dummySave.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/dummySave.php
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/module.js
+END
+editorPasteFromWord.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorPasteFromWord.html
+END
+editorSave.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorSave.html
+END
+editorInsertAnchor.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorInsertAnchor.html
+END
+editorInsertEntity.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorInsertEntity.html
+END
+editorTablePlugs.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorTablePlugs.html
+END
+testBodySheet.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/testBodySheet.css
+END
+testPluginsAll.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/testPluginsAll.html
+END
+editorPrettyPrint.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/22503/branches/1.5/dojox/editor/tests/editorPrettyPrint.html
+END

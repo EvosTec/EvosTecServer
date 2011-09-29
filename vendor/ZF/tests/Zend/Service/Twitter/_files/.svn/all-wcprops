@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files
+END
+blocks.create.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/blocks.create.twitter.xml
+END
+friendships.create.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/22324/standard/trunk/tests/Zend/Service/Twitter/_files/friendships.create.twitter.xml
+END
+users.show.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/users.show.twitter.xml
+END
+blocks.blocking.ids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/blocks.blocking.ids.xml
+END
+statuses.followers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/statuses.followers.xml
+END
+favorites.destroy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/favorites.destroy.xml
+END
+statuses.show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/statuses.show.xml
+END
+rate_limit_status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/22324/standard/trunk/tests/Zend/Service/Twitter/_files/rate_limit_status.xml
+END
+blocks.exists.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/blocks.exists.twitter.xml
+END
+statuses.update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/statuses.update.xml
+END
+friendships.exists.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/22324/standard/trunk/tests/Zend/Service/Twitter/_files/friendships.exists.twitter.xml
+END
+blocks.exists.padraicb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/blocks.exists.padraicb.xml
+END
+favorites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/favorites.xml
+END
+statuses.destroy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/statuses.destroy.xml
+END
+public_timeline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/22324/standard/trunk/tests/Zend/Service/Twitter/_files/public_timeline.xml
+END
+favorites.create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/favorites.create.xml
+END
+blocks.blocking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/blocks.blocking.xml
+END
+statuses.friends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/22326/standard/trunk/tests/Zend/Service/Twitter/_files/statuses.friends.xml
+END
+statuses.friends_timeline.page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/framework/!svn/ver/22324/standard/trunk/tests/Zend/Service/Twitter/_files/statuses.friends_timeline.page.xml
+END
+user_timeline.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/framework/!svn/ver/22324/standard/trunk/tests/Zend/Service/Twitter/_files/user_timeline.twitter.xml
+END
+blocks.destroy.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/blocks.destroy.twitter.xml
+END
+statuses.mentions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/statuses.mentions.xml
+END
+friendships.destroy.twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/22330/standard/trunk/tests/Zend/Service/Twitter/_files/friendships.destroy.twitter.xml
+END
+account.verify_credentials.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/framework/!svn/ver/22324/standard/trunk/tests/Zend/Service/Twitter/_files/account.verify_credentials.xml
+END

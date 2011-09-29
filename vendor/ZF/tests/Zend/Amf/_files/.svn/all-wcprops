@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/framework/!svn/ver/24205/standard/trunk/tests/Zend/Amf/_files
+END
+testdata
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/15897/standard/trunk/tests/Zend/Amf/_files/testdata
+END
+acl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/24205/standard/trunk/tests/Zend/Amf/_files/acl.xml
+END

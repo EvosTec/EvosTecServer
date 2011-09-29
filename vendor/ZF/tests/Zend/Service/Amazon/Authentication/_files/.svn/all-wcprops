@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/23004/standard/trunk/tests/Zend/Service/Amazon/Authentication/_files
+END
+sqs_v2_get_return.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/23004/standard/trunk/tests/Zend/Service/Amazon/Authentication/_files/sqs_v2_get_return.txt
+END
+ec2_v2_return.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/framework/!svn/ver/23004/standard/trunk/tests/Zend/Service/Amazon/Authentication/_files/ec2_v2_return.txt
+END

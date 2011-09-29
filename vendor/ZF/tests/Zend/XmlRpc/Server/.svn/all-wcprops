@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/XmlRpc/Server
+END
+FaultTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/XmlRpc/Server/FaultTest.php
+END
+CacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/XmlRpc/Server/CacheTest.php
+END

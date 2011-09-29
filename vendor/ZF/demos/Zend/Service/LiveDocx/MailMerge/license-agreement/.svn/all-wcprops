@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/23650/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/license-agreement
+END
+generate-document-concat.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/framework/!svn/ver/23650/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/license-agreement/generate-document-concat.php
+END
+template.docx
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/framework/!svn/ver/19360/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/license-agreement/template.docx
+END
+template-screenshot.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/framework/!svn/ver/19360/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/license-agreement/template-screenshot.png
+END
+generate-document.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/framework/!svn/ver/21632/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge/license-agreement/generate-document.php
+END

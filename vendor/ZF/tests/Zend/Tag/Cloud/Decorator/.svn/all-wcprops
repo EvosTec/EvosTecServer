@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Tag/Cloud/Decorator
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Tag/Cloud/Decorator/AllTests.php
+END
+HtmlCloudTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Tag/Cloud/Decorator/HtmlCloudTest.php
+END
+HtmlTagTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Tag/Cloud/Decorator/HtmlTagTest.php
+END

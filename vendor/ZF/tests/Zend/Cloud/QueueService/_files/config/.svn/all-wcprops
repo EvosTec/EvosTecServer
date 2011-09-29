@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/23004/standard/trunk/tests/Zend/Cloud/QueueService/_files/config
+END
+windowsazure.ini
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/23004/standard/trunk/tests/Zend/Cloud/QueueService/_files/config/windowsazure.ini
+END
+zendqueue.ini
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/framework/!svn/ver/23004/standard/trunk/tests/Zend/Cloud/QueueService/_files/config/zendqueue.ini
+END
+sqs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/23004/standard/trunk/tests/Zend/Cloud/QueueService/_files/config/sqs.ini
+END

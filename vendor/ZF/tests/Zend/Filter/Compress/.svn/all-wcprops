@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress/AllTests.php
+END
+LzfTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress/LzfTest.php
+END
+Bz2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress/Bz2Test.php
+END
+GzTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress/GzTest.php
+END
+ZipTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress/ZipTest.php
+END
+RarTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress/RarTest.php
+END
+TarTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Filter/Compress/TarTest.php
+END

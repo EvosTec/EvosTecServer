@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/framework/!svn/ver/18950/standard/trunk/tests/Zend/Acl/_files
+END
+ExtendedAclZF2234.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/17667/standard/trunk/tests/Zend/Acl/_files/ExtendedAclZF2234.php
+END
+AssertionZF7973.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/18950/standard/trunk/tests/Zend/Acl/_files/AssertionZF7973.php
+END
+MockAssertion.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/18950/standard/trunk/tests/Zend/Acl/_files/MockAssertion.php
+END

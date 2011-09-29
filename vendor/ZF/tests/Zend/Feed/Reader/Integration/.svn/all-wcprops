@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Integration
+END
+H-OnlineComAtom10Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Integration/H-OnlineComAtom10Test.php
+END
+LautDeRdfTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Integration/LautDeRdfTest.php
+END
+WordpressAtom10Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Integration/WordpressAtom10Test.php
+END
+WordpressRss2DcAtomTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Integration/WordpressRss2DcAtomTest.php
+END
+PodcastRss2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Reader/Integration/PodcastRss2Test.php
+END

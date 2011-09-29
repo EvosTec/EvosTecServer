@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/22501/branches/1.5/dojo/cldr/nls/ar
+END
+islamic-civil.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/22501/branches/1.5/dojo/cldr/nls/ar/islamic-civil.js
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22501/branches/1.5/dojo/cldr/nls/ar/number.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/22501/branches/1.5/dojo/cldr/nls/ar/currency.js
+END
+hebrew.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/22501/branches/1.5/dojo/cldr/nls/ar/hebrew.js
+END
+gregorian.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/src/!svn/ver/22501/branches/1.5/dojo/cldr/nls/ar/gregorian.js
+END
+islamic.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/src/!svn/ver/22501/branches/1.5/dojo/cldr/nls/ar/islamic.js
+END

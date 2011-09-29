@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/20141/standard/trunk/tests/Zend/File/Transfer/Adapter/_files
+END
+file2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/20141/standard/trunk/tests/Zend/File/Transfer/Adapter/_files/file2.txt
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/13822/standard/trunk/tests/Zend/File/Transfer/Adapter/_files/test.txt
+END
+file1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/20141/standard/trunk/tests/Zend/File/Transfer/Adapter/_files/file1.txt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Pubsubhubbub
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Pubsubhubbub/AllTests.php
+END
+PublisherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Pubsubhubbub/PublisherTest.php
+END
+SubscriberHttpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Pubsubhubbub/SubscriberHttpTest.php
+END
+SubscriberTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Pubsubhubbub/SubscriberTest.php
+END
+PubsubhubbubTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Feed/Pubsubhubbub/PubsubhubbubTest.php
+END

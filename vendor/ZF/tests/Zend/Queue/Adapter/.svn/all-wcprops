@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/framework/!svn/ver/24332/standard/trunk/tests/Zend/Queue/Adapter
+END
+ActivemqTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/24328/standard/trunk/tests/Zend/Queue/Adapter/ActivemqTest.php
+END
+MessageTestClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Queue/Adapter/MessageTestClass.php
+END
+NullTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Queue/Adapter/NullTest.php
+END
+Iterator2.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Queue/Adapter/Iterator2.php
+END
+ActivemqOfflineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Queue/Adapter/ActivemqOfflineTest.php
+END
+WARNING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/16590/standard/trunk/tests/Zend/Queue/Adapter/WARNING.txt
+END
+ArrayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/24328/standard/trunk/tests/Zend/Queue/Adapter/ArrayTest.php
+END
+AdapterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Queue/Adapter/AdapterTest.php
+END
+MemcacheqTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/24328/standard/trunk/tests/Zend/Queue/Adapter/MemcacheqTest.php
+END
+PlatformJobQueueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/framework/!svn/ver/23772/standard/trunk/tests/Zend/Queue/Adapter/PlatformJobQueueTest.php
+END
+DbTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/framework/!svn/ver/24328/standard/trunk/tests/Zend/Queue/Adapter/DbTest.php
+END
