@@ -1,67 +1,0 @@
-10
-
-dir
-24485
-http://framework.zend.com/svn/framework/standard/trunk/demos/Zend/Service/LiveDocx/MailMerge
-http://framework.zend.com/svn/framework
-
-
-
-2011-01-21T21:32:57.500879Z
-23650
-mikaelkael
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-44c647ce-9c0f-0410-b52a-842ac1e357ba
-
-bitmaps
-dir
-
-convert
-dir
-
-telephone-bill
-dir
-
-template-info
-dir
-
-images
-dir
-
-license-agreement
-dir
-
-constructors
-dir
-
-metafiles
-dir
-
-conference-pass
-dir
-
-supported-fonts
-dir
-
-pdf-security
-dir
-
-supported-formats
-dir
-
-templates
-dir
-

@@ -1,251 +1,0 @@
-10
-
-dir
-26732
-http://svn.dojotoolkit.org/src/branches/1.5/dojox/atom/widget/nls
-http://svn.dojotoolkit.org/src
-
-
-
-2011-03-14T01:30:59.356553Z
-24025
-peller
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-560b804f-0ae3-0310-86f3-f6aa0a117693
-
-da
-dir
-
-sv
-dir
-
-de
-dir
-
-ja
-dir
-
-he
-dir
-
-fi
-dir
-
-nb
-dir
-
-PeopleEditor.js
-file
-
-
-
-
-2011-09-29T16:34:10.378477Z
-e8f693d4c0524598e89cce2ad4b02660
-2008-11-20T18:56:26.825779Z
-15805
-jaredj
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-79
-
-FeedEntryEditor.js
-file
-
-
-
-
-2011-09-29T16:34:10.378477Z
-20825a65c1643ef1ec502b1289cc330c
-2008-11-20T18:56:26.825779Z
-15805
-jaredj
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-76
-
-fr
-dir
-
-nl
-dir
-
-th
-dir
-
-pl
-dir
-
-hu
-dir
-
-ro
-dir
-
-zh
-dir
-
-FeedViewerEntry.js
-file
-
-
-
-
-2011-09-29T16:34:10.378477Z
-67eecde299d50c6f02a961fb4c9ab48b
-2008-11-20T18:56:26.825779Z
-15805
-jaredj
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31
-
-FeedEntryViewer.js
-file
-
-
-
-
-2011-09-29T16:34:10.378477Z
-2639f5c7419fd48a76d349fc9cb14307
-2008-11-20T18:56:26.825779Z
-15805
-jaredj
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-204
-
-pt
-dir
-
-ca
-dir
-
-tr
-dir
-
-ru
-dir
-
-el
-dir
-
-ar
-dir
-
-pt-pt
-dir
-
-kk
-dir
-
-cs
-dir
-
-es
-dir
-
-ko
-dir
-
-zh-tw
-dir
-
-it
-dir
-
-sk
-dir
-
-sl
-dir
-

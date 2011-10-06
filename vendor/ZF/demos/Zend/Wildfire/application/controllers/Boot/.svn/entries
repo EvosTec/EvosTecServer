@@ -1,34 +1,0 @@
-10
-
-dir
-24485
-http://framework.zend.com/svn/framework/standard/trunk/demos/Zend/Wildfire/application/controllers/Boot
-http://framework.zend.com/svn/framework
-
-
-
-2009-11-12T15:37:56.161693Z
-18950
-alexander
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-44c647ce-9c0f-0410-b52a-842ac1e357ba
-
-Zend-Db-Profiler-Firebug
-dir
-
-Zend-Log-Writer-Firebug
-dir
-
